@@ -1,5 +1,7 @@
 # Attachment
 
+![NMK](https://github.com/MuchiriKinyua/Attachment/assets/113877377/39979380-0958-4e55-bf6c-224be25eecb2)
+
 # Our tasks included:
 Setting up room meetings and conferences e.g., computers and projectors, every morning.
 Setting up networks in new buildings i.e., Auditorium
